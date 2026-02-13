@@ -26,3 +26,6 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Git Credential Verification
+Testing git credential push - Updated Feb 13, 2026
